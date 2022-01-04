@@ -40,5 +40,3 @@ Module 18 - IoT Hacking: https://drive.google.com/file/d/1Ne93k4wGlV3yZAdjN3iYd7
 Module 19 - Cloud Computing: https://drive.google.com/file/d/1_oCVH6MQqgFqyYzuyHQtFmvBpOaiLjda/view?usp=sharing
 
 Module 20 - Cryptography: https://drive.google.com/file/d/1mF67F0WnloNvBuxMwZ_wdbOr2yZGYdjf/view?usp=sharing
-
-CEH-tools link: https://drive.google.com/drive/folders/1cgngsAtq81M-X_XrM1RQLEPiNIGD7rtY?usp=sharing
